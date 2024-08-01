@@ -19,7 +19,7 @@ access by its index.
 (Taken from Linear Algebra Explained Through Graph Theory, Towards Data Science)
 
 
-![Graph](https://drive.google.com/file/d/1BaKkWhCj6wMCTCwfrZn6lNyyasxIKga_/view?usp=drive_link)
+![Graphe](https://drive.google.com/file/d/1BaKkWhCj6wMCTCwfrZn6lNyyasxIKga_/view?usp=drive_link)
 (Taken from Princeton's Algorithms course, 2nd part)
 
 We will place nodes according to the number of pixels in the image we are working on and connect the top most pixels with the bottom, each node with three under it, while the top most row itself is connected to the source, which counts as our starting point, and the bottom most are all connected to the sink, which is our end.
@@ -42,12 +42,12 @@ After all this, the results were no where as good as vectorized implementations;
 
 To give you an idea of how much it takes with images, here are some images we took; all were taken in Cairo University, in the faculty of engineering's campus in Cairo.
 
-![Zed](https://drive.google.com/file/d/1E8LhCVH9fOmvRreTyR-CMBnziKu2vcdm/view?usp=drive_link)
+![trial3](https://github.com/user-attachments/assets/b4920e5e-fb45-45de-b9b1-ae31401714ee)
 
-![Zedb](https://drive.google.com/file/d/19a87qHgHn03COnGTEO7fT3Cbb8WwVXPC/view?usp=drive_link)
+![3b(10,05,59)300](https://github.com/user-attachments/assets/3553e4b7-9132-4208-ba10-099a5f1be722)
 Backwards energy.
 
-![Zedf](https://drive.google.com/file/d/17ledPLNGAw1x28qitv15f3vSOWylc_j_/view?usp=drive_link)
+![3f(23,05,56)300](https://github.com/user-attachments/assets/5f3c7e21-a942-4f56-9b7e-6bdf071d9b7a)
 Forwards energy.
 
 **Forward** Took 23 min and 6 sec aprox.
