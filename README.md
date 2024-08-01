@@ -18,8 +18,7 @@ access by its index.
 ![Graph](https://miro.medium.com/v2/resize:fit:1400/0*sNR5Q8ciD79RHYiM.png)
 (Taken from Linear Algebra Explained Through Graph Theory, Towards Data Science)
 
-
-![Graphe](https://drive.google.com/file/d/1BaKkWhCj6wMCTCwfrZn6lNyyasxIKga_/view?usp=drive_link)
+![Adjacencylist](https://github.com/user-attachments/assets/d8ef37bc-1b0b-4029-b641-26de422689a7)
 (Taken from Princeton's Algorithms course, 2nd part)
 
 We will place nodes according to the number of pixels in the image we are working on and connect the top most pixels with the bottom, each node with three under it, while the top most row itself is connected to the source, which counts as our starting point, and the bottom most are all connected to the sink, which is our end.
@@ -44,11 +43,16 @@ To give you an idea of how much it takes with images, here are some images we to
 
 ![trial3](https://github.com/user-attachments/assets/b4920e5e-fb45-45de-b9b1-ae31401714ee)
 
-![3b(10,05,59)300](https://github.com/user-attachments/assets/3553e4b7-9132-4208-ba10-099a5f1be722)
-Backwards energy.
 
-![3f(23,05,56)300](https://github.com/user-attachments/assets/5f3c7e21-a942-4f56-9b7e-6bdf071d9b7a)
+
+Backwards energy.
+![3b(10,05,59)300](https://github.com/user-attachments/assets/3553e4b7-9132-4208-ba10-099a5f1be722)
+
+
+
 Forwards energy.
+![3f(23,05,56)300](https://github.com/user-attachments/assets/5f3c7e21-a942-4f56-9b7e-6bdf071d9b7a)
+
 
 **Forward** Took 23 min and 6 sec aprox.
 **Backward** Took 10 min and 6 sec.
@@ -59,11 +63,14 @@ The original image was 1305 x 593, both carved 300 times vertically.
 
 ![trial2](https://github.com/user-attachments/assets/b8f1040d-4006-492d-a087-e465c747982c)
 
-![4b(9,09,16)250](https://github.com/user-attachments/assets/38e95e75-d38b-4f8b-b8a1-c15c99a64be7)
-Backwards energy.
 
-![4f(20,27,28)250](https://github.com/user-attachments/assets/3e5f665b-d87c-4a30-b7c5-b9ac57c536f9)
+Backwards energy.
+![4b(9,09,16)250](https://github.com/user-attachments/assets/38e95e75-d38b-4f8b-b8a1-c15c99a64be7)
+
+
 Forwards energy.
+![4f(20,27,28)250](https://github.com/user-attachments/assets/3e5f665b-d87c-4a30-b7c5-b9ac57c536f9)
+
 
 **Forward** Took 20 min and 27 sec.
 **Backward** It took 9 minutes and 9 seconds.
