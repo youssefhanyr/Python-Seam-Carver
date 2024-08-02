@@ -32,7 +32,7 @@ https://www.datacamp.com/tutorial/dijkstra-algorithm-in-python
 Lastly, and as expected with Python, I will be explaining some of the optimizations I made:
 
 1. An energy map to calculate the energy between two nodes at the first iteration and preserve it by passing the graph itself with every iteration to a new graph.
-2: Only recalculate the energy of nodes that are affected by the removal of the seam.
+2. Only recalculate the energy of nodes that are affected by the removal of the seam.
 Finally, I tried to preserve the adjacency list by recalculating the numbers of the graph so the change with width and height would sync with the numbers of the nodes; however, this did not seem to be of any benefit, so I kept the code for it unused.
 
 After all this, the results were no where as good as vectorized implementations; after all, this was not a coding implementation, so time and optimization were just a matter of me being stubborn (not like we got a high rank at the end anyway (for reasons unrelated to the code).
