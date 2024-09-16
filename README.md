@@ -16,10 +16,19 @@ In CS, they are used in many algorithms, and in fields such as image processing,
 access by its index.
 
 ![Graph](https://miro.medium.com/v2/resize:fit:1400/0*sNR5Q8ciD79RHYiM.png)
+
 (Taken from Linear Algebra Explained Through Graph Theory, Towards Data Science)
 
+
 ![Adjacencylist](https://github.com/user-attachments/assets/d8ef37bc-1b0b-4029-b641-26de422689a7)
-(Taken from Princeton's Algorithms course, 2nd part)
+
+
+![Screenshot 2024-04-07 233833](https://github.com/user-attachments/assets/140a548e-7484-4320-b206-e76e08e9957a)
+
+
+(Both are Taken from Princeton's Algorithms course, 2nd part)
+
+
 
 We will place nodes according to the number of pixels in the image we are working on and connect the top most pixels with the bottom, each node with three under it, while the top most row itself is connected to the source, which counts as our starting point, and the bottom most are all connected to the sink, which is our end.
 
