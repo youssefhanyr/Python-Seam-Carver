@@ -1,4 +1,4 @@
 (order)(forward|backwards)(hr,min,sec,msec)(noofcompressions)
 
-Original pictures are ones i took by ourselves, any other i found on implementations on the internet,
+Original pictures are ones i took by ourselves in the vicinity of Cairo University, any other i found on implementations on the internet,
 all on seam carving.
