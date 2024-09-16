@@ -1,5 +1,5 @@
 from copy import copy
-from Code.VSeamCarver import VSeamCarver
+from VSeamCarver import VSeamCarver
 from typing_extensions import deprecated
 
 

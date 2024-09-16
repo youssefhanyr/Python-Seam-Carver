@@ -1,8 +1,8 @@
 from PIL import Image
-from Code.Graph import DiGraph
+from Graph import DiGraph
 from math import sqrt
 from AcyclicSP import AcyclicSPMOD
-from Code.sorts import topological_sort
+from sorts import topological_sort
 
 
 class VSeamCarver:

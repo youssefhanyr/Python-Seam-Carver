@@ -1,4 +1,4 @@
-from Code.sorts import topological_sort
+from sorts import topological_sort
 
 '''These are the algorithm classes, they take the graphs and the seam carver (s) and returns pather which is
 the nodes in the shortest path found, the algorithm used is djisktra's in finding shortest paths'''

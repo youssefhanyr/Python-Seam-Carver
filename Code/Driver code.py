@@ -2,10 +2,10 @@
 The first two seam carvers carve according to backwards energy, and the the other two to forward energy '''
 
 
-from Code.VSeamCarver2 import VSeamCarver2
-from Code.HSeamCarver2 import HSeamCarver2
-from Code.VSeamCarver import VSeamCarver
-from Code.HSeamCarver import HSeamCarver
+from VSeamCarver2 import VSeamCarver2
+from HSeamCarver2 import HSeamCarver2
+from VSeamCarver import VSeamCarver
+from HSeamCarver import HSeamCarver
 from time import time
 from PIL import Image
 import numpy as np

@@ -1,7 +1,7 @@
 from PIL import Image
 from Graph import DiGraph
 from AcyclicSP import AcyclicSPMODMarkII
-from Code.sorts import topological_sort
+from sorts import topological_sort
 
 
 class HSeamCarver2:
